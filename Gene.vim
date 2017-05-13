@@ -15,7 +15,7 @@ hi Normal guifg=#ffffff guibg=#1c1c1c guisp=NONE gui=NONE ctermfg=15 ctermbg=234
 hi StatusLineNC ctermfg=232 ctermbg=0 cterm=bold
 hi StatusLine   ctermfg=232 ctermbg=0 cterm=bold
 hi VertSplit    ctermfg=232 ctermbg=0 cterm=bold
-hi LineNr guifg=#184563 guibg=NONE guisp=NONE gui=NONE ctermfg=237 ctermbg=0 cterm=NONE
+hi LineNr guifg=#184563 guibg=NONE guisp=NONE gui=NONE ctermfg=235 ctermbg=0 cterm=NONE
 hi EndOfBuffer guifg=#000 guibg=#000 guisp=NONE gui=NONE ctermfg=0 ctermbg=0 cterm=NONE
 hi IncSearch guifg=#184563 guibg=NONE guisp=NONE gui=NONE ctermfg=190 ctermbg=0 cterm=NONE
 hi Comment guifg=#184563 guibg=NONE guisp=NONE gui=NONE ctermfg=239 ctermbg=234 cterm=NONE
@@ -24,7 +24,7 @@ hi Constant guifg=#ffffff guibg=#1c1c1c guisp=NONE gui=NONE ctermfg=15 ctermbg=2
 hi PreProc guifg=#ffffff guibg=#1c1c1c guisp=NONE gui=NONE ctermfg=15 ctermbg=234 cterm=none
 hi Type guifg=#ffffff guibg=#1c1c1c guisp=NONE gui=NONE ctermfg=15 ctermbg=234 cterm=none
 hi Statement guifg=#ffffff guibg=#1c1c1c guisp=NONE gui=NONE ctermfg=15 ctermbg=234 cterm=bold
-hi Function guifg=#ffffff guibg=#1c1c1c guisp=NONE gui=NONE ctermfg=239 ctermbg=234 cterm=bold
+hi Function guifg=#ffffff guibg=#1c1c1c guisp=NONE gui=NONE ctermfg=15 ctermbg=234 cterm=none
 hi Underlined guifg=#005fd7 guibg=#1c1c1c guisp=NONE gui=NONE ctermfg=26 ctermbg=234 cterm=none
 
 " TODO support funciton
