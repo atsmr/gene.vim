@@ -22,7 +22,6 @@ hi PreProc guifg=#ffffff guibg=#121212 guisp=NONE gui=NONE ctermfg=15 ctermbg=23
 hi Type guifg=#ffffff guibg=#121212 guisp=NONE gui=NONE ctermfg=15 ctermbg=233 cterm=none
 hi Function guifg=#ffffff guibg=#121212 guisp=NONE gui=NONE ctermfg=15 ctermbg=233 cterm=none
 
-
 " Dark
 hi LineNr guifg=#184563 guibg=NONE guisp=NONE gui=NONE ctermfg=233 ctermbg=0 cterm=NONE
 hi VertSplit guifg=#184563 guibg=NONE guisp=NONE gui=NONE ctermfg=233 ctermbg=0 cterm=NONE
